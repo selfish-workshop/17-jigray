@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "stayko-dev",
+      "runtimeExecutable": "C:/Users/dort/AppData/Local/Temp/nodejs/node-v20.18.1-win-x64/npx.cmd",
+      "runtimeArgs": ["next", "dev"],
+      "port": 3000
+    }
+  ]
+}

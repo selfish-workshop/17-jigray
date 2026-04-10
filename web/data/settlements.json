@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s1",
+    "hostId": "h1",
+    "period": "2026-03",
+    "totalRevenue": 1200000,
+    "commission": 120000,
+    "commissionRate": 10,
+    "netAmount": 1080000,
+    "status": "completed",
+    "completedAt": "2026-04-01",
+    "listings": ["1", "3"]
+  },
+  {
+    "id": "s2",
+    "hostId": "h2",
+    "period": "2026-03",
+    "totalRevenue": 980000,
+    "commission": 98000,
+    "commissionRate": 10,
+    "netAmount": 882000,
+    "status": "completed",
+    "completedAt": "2026-04-01",
+    "listings": ["2", "5"]
+  },
+  {
+    "id": "s3",
+    "hostId": "h3",
+    "period": "2026-03",
+    "totalRevenue": 900000,
+    "commission": 90000,
+    "commissionRate": 10,
+    "netAmount": 810000,
+    "status": "completed",
+    "completedAt": "2026-04-02",
+    "listings": ["4", "6"]
+  },
+  {
+    "id": "s4",
+    "hostId": "h4",
+    "period": "2026-03",
+    "totalRevenue": 930000,
+    "commission": 93000,
+    "commissionRate": 10,
+    "netAmount": 837000,
+    "status": "completed",
+    "completedAt": "2026-04-02",
+    "listings": ["7", "8"]
+  },
+  {
+    "id": "s5",
+    "hostId": "h1",
+    "period": "2026-04",
+    "totalRevenue": 1200000,
+    "commission": 120000,
+    "commissionRate": 10,
+    "netAmount": 1080000,
+    "status": "pending",
+    "completedAt": null,
+    "listings": ["1", "3"]
+  },
+  {
+    "id": "s6",
+    "hostId": "h2",
+    "period": "2026-04",
+    "totalRevenue": 980000,
+    "commission": 98000,
+    "commissionRate": 10,
+    "netAmount": 882000,
+    "status": "pending",
+    "completedAt": null,
+    "listings": ["2", "5"]
+  },
+  {
+    "id": "s7",
+    "hostId": "h3",
+    "period": "2026-04",
+    "totalRevenue": 900000,
+    "commission": 90000,
+    "commissionRate": 10,
+    "netAmount": 810000,
+    "status": "processing",
+    "completedAt": null,
+    "listings": ["4", "6"]
+  },
+  {
+    "id": "s8",
+    "hostId": "h4",
+    "period": "2026-04",
+    "totalRevenue": 930000,
+    "commission": 93000,
+    "commissionRate": 10,
+    "netAmount": 837000,
+    "status": "pending",
+    "completedAt": null,
+    "listings": ["7", "8"]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "r1",
+    "listingId": "1",
+    "guestName": "Tom Williams",
+    "guestEmail": "tom.w@university.edu",
+    "guestUniversity": "Exchange Student - USA",
+    "moveIn": "2026-05-01",
+    "moveOut": "2026-10-31",
+    "message": "Hi! I'm an exchange student from the US. Looking for a quiet place to study. I'm very tidy and respectful.",
+    "status": "approved",
+    "createdAt": "2026-03-20"
+  },
+  {
+    "id": "r2",
+    "listingId": "2",
+    "guestName": "Yuki Tanaka",
+    "guestEmail": "yuki.t@waseda.jp",
+    "guestUniversity": "Exchange Student - Japan",
+    "moveIn": "2026-04-15",
+    "moveOut": "2026-08-15",
+    "message": "Hello! Japanese student coming to Korea for a semester. I love cooking and would enjoy sharing the kitchen!",
+    "status": "pending",
+    "createdAt": "2026-03-25"
+  },
+  {
+    "id": "r3",
+    "listingId": "3",
+    "guestName": "Li Wei",
+    "guestEmail": "li.wei@pku.cn",
+    "guestUniversity": "Graduate Student - China",
+    "moveIn": "2026-06-01",
+    "moveOut": "2027-05-31",
+    "message": "I'm a PhD student starting my research at SNU. Need a long-term stay. Very quiet and clean.",
+    "status": "pending",
+    "createdAt": "2026-04-01"
+  },
+  {
+    "id": "r4",
+    "listingId": "5",
+    "guestName": "Marie Dubois",
+    "guestEmail": "marie.d@sorbonne.fr",
+    "guestUniversity": "Exchange Student - France",
+    "moveIn": "2026-04-20",
+    "moveOut": "2026-07-20",
+    "message": "Bonjour! French student excited to experience Korean culture. I'm looking for a social living environment.",
+    "status": "approved",
+    "createdAt": "2026-03-15"
+  },
+  {
+    "id": "r5",
+    "listingId": "4",
+    "guestName": "Ahmed Hassan",
+    "guestEmail": "ahmed.h@cairo.eg",
+    "guestUniversity": "Graduate Student - Egypt",
+    "moveIn": "2026-05-15",
+    "moveOut": "2026-11-15",
+    "message": "Hello, I'm a master's student. I need a budget-friendly room near campus. I'm very respectful of house rules.",
+    "status": "rejected",
+    "createdAt": "2026-04-05"
+  },
+  {
+    "id": "r6",
+    "listingId": "7",
+    "guestName": "Sarah Johnson",
+    "guestEmail": "sarah.j@mit.edu",
+    "guestUniversity": "Research Intern - USA",
+    "moveIn": "2026-05-01",
+    "moveOut": "2026-08-31",
+    "message": "Hi! Research intern at KAIST for the summer. The hanok-style room looks amazing!",
+    "status": "pending",
+    "createdAt": "2026-04-08"
+  }
+]

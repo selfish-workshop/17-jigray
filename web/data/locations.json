@@ -1,0 +1,43 @@
+{
+  "areas": [
+    { "name": "Sinchon / Hongdae", "nameKr": "신촌·홍대", "lat": 37.5563, "lng": 126.9368, "listingIds": ["1", "2"] },
+    { "name": "Gangnam", "nameKr": "강남", "lat": 37.4979, "lng": 127.0276, "listingIds": ["5"] },
+    { "name": "Gwanak (SNU)", "nameKr": "관악 (서울대)", "lat": 37.4784, "lng": 126.9516, "listingIds": ["3"] },
+    { "name": "Anam (Korea Univ)", "nameKr": "안암 (고려대)", "lat": 37.5868, "lng": 127.0292, "listingIds": ["4"] },
+    { "name": "Sinsu (Sogang)", "nameKr": "신수 (서강대)", "lat": 37.5509, "lng": 126.9407, "listingIds": ["8"] },
+    { "name": "Daehyeon (Ewha)", "nameKr": "대현 (이대)", "lat": 37.5588, "lng": 126.9462, "listingIds": ["6"] },
+    { "name": "Yuseong (KAIST)", "nameKr": "유성 (KAIST)", "lat": 36.3741, "lng": 127.3654, "listingIds": ["7"] }
+  ],
+  "listings_coords": {
+    "1": { "lat": 37.5571, "lng": 126.9368 },
+    "2": { "lat": 37.5478, "lng": 126.9227 },
+    "3": { "lat": 37.4784, "lng": 126.9516 },
+    "4": { "lat": 37.5868, "lng": 127.0292 },
+    "5": { "lat": 37.4979, "lng": 127.0276 },
+    "6": { "lat": 37.5588, "lng": 126.9462 },
+    "7": { "lat": 36.3741, "lng": 127.3654 },
+    "8": { "lat": 37.5509, "lng": 126.9407 }
+  },
+  "searchSuggestions": [
+    { "text": "홍대", "textEn": "Hongdae", "type": "area", "lat": 37.5563, "lng": 126.9237 },
+    { "text": "홍대입구역", "textEn": "Hongdae Station", "type": "station", "lat": 37.5571, "lng": 126.9244 },
+    { "text": "홍익대학교", "textEn": "Hongik University", "type": "university", "lat": 37.5512, "lng": 126.9249 },
+    { "text": "한양대학교", "textEn": "Hanyang University", "type": "university", "lat": 37.5574, "lng": 127.0468 },
+    { "text": "신촌", "textEn": "Sinchon", "type": "area", "lat": 37.5553, "lng": 126.9366 },
+    { "text": "신촌역", "textEn": "Sinchon Station", "type": "station", "lat": 37.5554, "lng": 126.9368 },
+    { "text": "연세대학교", "textEn": "Yonsei University", "type": "university", "lat": 37.5646, "lng": 126.9388 },
+    { "text": "서울대학교", "textEn": "Seoul National University", "type": "university", "lat": 37.4591, "lng": 126.9520 },
+    { "text": "서울대입구역", "textEn": "SNU Station", "type": "station", "lat": 37.4812, "lng": 126.9527 },
+    { "text": "고려대학교", "textEn": "Korea University", "type": "university", "lat": 37.5894, "lng": 127.0323 },
+    { "text": "강남", "textEn": "Gangnam", "type": "area", "lat": 37.4979, "lng": 127.0276 },
+    { "text": "강남역", "textEn": "Gangnam Station", "type": "station", "lat": 37.4981, "lng": 127.0276 },
+    { "text": "건국대학교", "textEn": "Konkuk University", "type": "university", "lat": 37.5422, "lng": 127.0771 },
+    { "text": "이화여자대학교", "textEn": "Ewha Womans University", "type": "university", "lat": 37.5628, "lng": 126.9468 },
+    { "text": "서강대학교", "textEn": "Sogang University", "type": "university", "lat": 37.5509, "lng": 126.9407 },
+    { "text": "성균관대학교", "textEn": "Sungkyunkwan University", "type": "university", "lat": 37.5870, "lng": 126.9930 },
+    { "text": "KAIST", "textEn": "KAIST", "type": "university", "lat": 36.3741, "lng": 127.3654 },
+    { "text": "대전", "textEn": "Daejeon", "type": "area", "lat": 36.3504, "lng": 127.3845 },
+    { "text": "역삼동", "textEn": "Yeoksam-dong", "type": "area", "lat": 37.5001, "lng": 127.0365 },
+    { "text": "합정역", "textEn": "Hapjeong Station", "type": "station", "lat": 37.5495, "lng": 126.9137 }
+  ]
+}
